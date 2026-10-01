@@ -4,6 +4,14 @@ A Power BI capstone dashboard exploring DTP1 and DTP3 immunization coverage, cha
 
 ## Dashboard preview
 
+### All countries, 2015–2025
+
+![DTP immunization coverage and dropout dashboard for all countries, 2015–2025](images/dashboard-all-countries.png)
+
+*Country and Year filters are both set to All.*
+
+### Country example: Guinea
+
 ![DTP immunization coverage and dropout dashboard filtered to Guinea](images/dashboard-guinea.png)
 
 *Screenshot with Country set to Guinea and Year set to All. The summary cards and charts are reproduced as displayed in the report.*
@@ -35,6 +43,7 @@ This Power BI workspace link may require sign-in and permission from the report 
 | File | Purpose |
 | --- | --- |
 | `Sababa_Fatima_Veronica_Capstone_Dashboard.pbix` | Power BI dashboard and embedded data model |
+| `images/dashboard-all-countries.png` | Dashboard overview for all countries, 2015–2025 |
 | `images/dashboard-guinea.png` | Dashboard screenshot with Guinea selected |
 | `README.md` | Project overview and viewing instructions |
 
